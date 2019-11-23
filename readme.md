@@ -6,8 +6,8 @@ and to [susanli2016](https://github.com/susanli2016) for her guide on the [fuzzy
 
 #### Basic Setup
 Install the fuzzywuzzy python module</br>
-<code>pip3 install fuzzywyzzy<code>
+<code>pip3 install fuzzywyzzy</code>
 
-Next, just run the program with 
-<code>python findPokemonNames.py<code>
+##### Next, just run the program with 
+<code>python findPokemonNames.py</code>
 
